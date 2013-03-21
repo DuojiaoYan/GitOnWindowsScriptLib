@@ -1,4 +1,0 @@
-pushd ~
-git config --global http.proxy `$COMSPEC /c "gethttpproxy"`
-git config --global http.proxy
-popd
