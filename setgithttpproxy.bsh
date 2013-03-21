@@ -1,0 +1,2 @@
+git config --global http.proxy http://`$COMSPEC /c "echocurrenthttpproxy.bat"`
+git config --global http.proxy
