@@ -1,0 +1,11 @@
+F:\openmedia\bin\LIBACML_DLL.DLL
+F:\openmedia\bin\LIBIFCOREMD.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPCC-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPCORE-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPCP-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPCV-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPI-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPS-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\IPPVC-6.1.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\LIBIOMP5MD.DLL
+c:\program files (x86)\intel\ipp\6.1.4.052\ia32\bin\LIBMMD.DLL
